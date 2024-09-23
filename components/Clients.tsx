@@ -9,7 +9,7 @@ const Clients = () => {
   return (
     <section id="testimonials" className="py-20">
       <h1 className="heading">
-    Swift's Official
+    Swift&apos;s Official
         <span className="text-purple"> Partners</span>
       </h1>
 
